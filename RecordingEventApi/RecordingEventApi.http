@@ -1,0 +1,6 @@
+@RecordingEventApi_HostAddress = http://localhost:5231
+
+GET {{RecordingEventApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
